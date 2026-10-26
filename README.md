@@ -1,5 +1,5 @@
 # Activity-Recognition-using-Hidden-Markov-Models
-HMM-based human activity recognition using smartphone accelerometer data, Baum-Welch training, and Viterbi decoding.
+Human activity recognition using Hidden Markov Models (HMMs) to classify smartphone accelerometer data into standing, walking, and running using Baum-Welch training and Viterbi decoding.
 
 
 ## Classes
